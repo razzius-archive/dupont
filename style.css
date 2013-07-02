@@ -1,0 +1,10 @@
+body {
+	background-image: url(bg.svg);
+	-webkit-background-size: cover;
+	font-family: "Palatino Linotype" !important;
+}
+
+.reveal section img {
+	box-shadow: none;
+	border: none;
+}
